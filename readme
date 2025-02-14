@@ -1,0 +1,11 @@
+🌟 Toposel Backend assignment
+Backend for Toposel project, built with Node.js, Express, and MongoDB.
+
+📌 Features
+✅ User Authentication (JWT-based)
+✅ CRUD Operations (Create, Read, Update, Delete)
+✅ Secure API Routes
+✅ MongoDB Database Integration
+✅ Environment Variable Support (.env file)
+
+as asked 
